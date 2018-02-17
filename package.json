@@ -31,7 +31,7 @@
     "cookie-parser": "1.3.3",
     "errorhandler": "1.3.0",
     "express": "4.11.1",
-    "forever": "0.11.1",
+    "forever": "0.13.0",
     "gridfs-stream": "0.5.3",
     "lodash": "2.4.1",
     "meanio": "linnovate/meanio",
@@ -50,7 +50,7 @@
     "view-helpers": "0.1.5"
   },
   "devDependencies": {
-    "require-dir":"latest",
+    "require-dir": "latest",
     "expect.js": "0.3.1",
     "karma": "0.12.28",
     "karma-chrome-launcher": "0.1.7",
@@ -79,10 +79,8 @@
     "gulp-mocha": "^1.1.0",
     "gulp-nodemon": "^1.0.4",
     "gulp-uglify": "^1.0.1",
-    "gulp-load-plugins": "^0.7.0",
     "gulp-util": "^3.0.1",
     "jshint-stylish": "^1.0.0",
-    "require-dir":"latest",
     "through": "^2.3.6"
   }
 }
